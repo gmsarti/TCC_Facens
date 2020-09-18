@@ -22,4 +22,4 @@ Data | Objetivo | Feito
 24/10/20 | Apresentar código para tratar e preparar dados para o uso em experimentos de aprendizado de máquina. Discutir problemas encontrados e decidir próximos passos | [x]
 30/01/21 | Revisar experimentos, apontar problemas e planejar correções ou melhorias | []
 13/03/21 | Entrega do material para banca | []
-10/04/21 | Evento de Apresentação final dos TCCs []
+10/04/21 | Evento de Apresentação final dos TCCs | []

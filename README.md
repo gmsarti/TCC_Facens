@@ -14,3 +14,10 @@ Pesquisando Corpus sobre Discurso de Ódio encontramos a iniciativa do Centro de
 
 Outro site muito interessante que encontramos foi um agregador de _datasets_ sobre _hate speach_ em várias linguas diferentes o [hatespeachdata](http://hatespeechdata.com/). Nesse site encontramos tanto o arquivo citado acima como o artigo [_Offensive Comments in the Brazilian Web: A Dataset and Baseline Results_](http://www.each.usp.br/digiampietri/BraSNAM/2017/p04.pdf) que também pode ser encontrado no [Github](https://github.com/rogersdepelle/OffComBR) e trata de comentários no site G1.
 
+## Cronograma
+
+29/08/20|Discutir sobre o dataset utilizado e abordagens recomendadas
+24/10/20|Apresentar código para tratar e preparar dados para o uso em experimentos de aprendizado de máquina. Discutir problemas encontrados e decidir próximos passos
+30/01/21|Revisar experimentos, apontar problemas e planejar correções ou melhorias
+13/03/21|Entrega do material para banca
+10/04/21|Evento de Apresentação final dos TCCs

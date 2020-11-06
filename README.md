@@ -12,6 +12,8 @@ Nossa intensão inicial era trabalhar com _NPL_ e para isso pensamos em usar dad
 
 Pesquisando Corpus sobre Discurso de Ódio encontramos a iniciativa do Centro de Estudos Web (CEWEB/NIC) de desenvolver uma [Inteligência Artificial](https://github.com/cewebbr/Bert_HateSpeech_Classification) que ajude na prevenção da disseminação desse tipo de comportamento online. Eles trabalham com um Corpus em português brasileiro que foi publicado por Fortuna, P., Rocha Da Silva, J., Soler-Company, J., Wanner, L., & Nunes, S. (2019). ["_A Hierarchically-Labeled Portuguese Hate Speech Dataset_"](https://www.aclweb.org/anthology/W19-3510/), com dados tirados do Twitter e que se encontra no [Github](https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset).
 
+### Outras referências que não entram nesse trabalho
+
 Outro site muito interessante que encontramos foi um agregador de _datasets_ sobre _hate speach_ em várias linguas diferentes o [hatespeachdata](http://hatespeechdata.com/). Nesse site encontramos tanto o arquivo citado acima como o artigo [_Offensive Comments in the Brazilian Web: A Dataset and Baseline Results_](http://www.each.usp.br/digiampietri/BraSNAM/2017/p04.pdf) que também pode ser encontrado no [Github](https://github.com/rogersdepelle/OffComBR) e trata de comentários no site G1.
 
 ## Cronograma

@@ -4,6 +4,9 @@
 
 Trabalho de conclusão para o curso de especialização em Ciência de Dados da Facens com uso de Processamento de Linguagem Natural para análise de discurso de ódio em redes sociais.
 
+O trabalho pode ser acessado no [neste Google Colab](https://colab.research.google.com/drive/1G9EWxprXoEUwuhLJ5fS3g0cLTcGhT-3y#scrollTo=1NK3D0DCw4ku).
+Nossa apresentação pode ser encontrada [aqui](https://docs.google.com/presentation/d/1GpMXMOO_qTmBH1gr9R5V2FEFY7rGIlSDZsyJ0Y1ipU8/edit?usp=sharing).
+
 
 
 ## O Percurso
@@ -21,7 +24,7 @@ Outro site muito interessante que encontramos foi um agregador de _datasets_ sob
 Data | Objetivo | Feito
 --- | --- | ---
 29/08/20 | Discutir sobre o dataset utilizado e abordagens recomendadas | [x]
-24/10/20 | Apresentar código para tratar e preparar dados para o uso em experimentos de aprendizado de máquina. Discutir problemas encontrados e decidir próximos passos | []
-30/01/21 | Revisar experimentos, apontar problemas e planejar correções ou melhorias | []
-13/03/21 | Entrega do material para banca | []
-10/04/21 | Evento de Apresentação final dos TCCs | []
+24/10/20 | Apresentar código para tratar e preparar dados para o uso em experimentos de aprendizado de máquina. Discutir problemas encontrados e decidir próximos passos | [x]
+30/01/21 | Revisar experimentos, apontar problemas e planejar correções ou melhorias | [x]
+11/04/21 | Entrega do material para banca | []
+24/04/21 | Evento de Apresentação final dos TCCs | []
